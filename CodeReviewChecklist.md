@@ -8,4 +8,3 @@ Checklist
 * Constructor injection
 * Magic numbers should be replaced with named constants.
 * User input should not be used in queries directly
-
